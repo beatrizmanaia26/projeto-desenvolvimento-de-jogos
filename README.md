@@ -18,3 +18,12 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - [Prefabs](./docs/6-prefabs.md)
 - [Prototipação](./docs/7-prototipacao.md)
 - [Testes](./docs/8-testes.md)
+
+# PARA PENSAR !!!!!
+Pensar em tipo ação aventura puzzlede jogo é tema (dia 20), template github
+
+Tema introdução público alvo(que tipo de jogo essas pessoas gostam)
+
+ex: metrovania
+
+Não construir mtas mecânicas, fazer 1 mecânica e replicar em outras fases mudando hitoria e como eh executada, colocar evolução de mecânica
