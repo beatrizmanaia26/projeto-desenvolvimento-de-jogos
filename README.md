@@ -9,7 +9,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - Rafaela Altheman de Campos: RA: 22.125.062-4
 
 ## Tópicos
-- [Introdução] Nosso jogo será do tip Puzzle de mistério 
+- [Introdução] (./docs/introducao.md)
 - [Público Alvo](./docs/2-publico-alvo.md)
 - [Estética](./docs/3-estetica.md)
 - [Dinâmica](./docs/4-dinamica.md)
