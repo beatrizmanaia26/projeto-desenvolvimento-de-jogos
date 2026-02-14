@@ -3,14 +3,13 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
-- Nome Componente 4
-- Nome Componente 5
+- Beatriz Manaia Lourenço Berto RA: 22.125.060-8
+- Letizia Lowatzki Baptistella RA:22.125.063-2
+- Manuella Filipe Peres RA: 22.224.029-3
+- Rafaela Altheman de Campos: RA: 22.125.062-4
 
 ## Tópicos
-- [Introdução](./docs/1-introducao.md)
+- [Introdução] Nosso jogo será do tip Puzzle de mistério 
 - [Público Alvo](./docs/2-publico-alvo.md)
 - [Estética](./docs/3-estetica.md)
 - [Dinâmica](./docs/4-dinamica.md)
@@ -20,6 +19,8 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - [Testes](./docs/8-testes.md)
 
 # PARA PENSAR !!!!!
+
+TIPO: mistério
 Pensar em tipo ação aventura puzzlede jogo é tema (dia 20), template github
 
 Tema introdução público alvo(que tipo de jogo essas pessoas gostam)
