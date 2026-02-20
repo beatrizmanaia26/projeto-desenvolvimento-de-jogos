@@ -15,3 +15,13 @@ O jogo possuirá 7 fases baseada na interação do usuario com o ambiente, aumen
 Os puzzels serão decididos pela bruxa, com enigmas temáticos da época.
 
 A personagem principal, Clarke, terá que enfrentar todos os desafios propostos para recuperar o pergaminho.
+
+
+# ENTREGA 2: caracteristica e enredo do jogo
+
+-ambientes: castelo, comodos do castelo
+-jogadores: clarke
+-objetos:pergaminho, pistas?
+-inimigos:pessoas
+-aliados: animais
+-historia:
