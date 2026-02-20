@@ -3,13 +3,13 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 ## Componentes do Grupo
 
-- Beatriz Manaia Lourenço Berto RA: 22.125.060-8
-- Letizia Lowatzki Baptistella RA:22.125.063-2
-- Manuella Filipe Peres RA: 22.224.029-3
-- Rafaela Altheman de Campos: RA: 22.125.062-4
+- [Beatriz Manaia Lourenço Berto](https://github.com/beatrizmanaia26) RA: 22.125.060-8
+- [Letizia Lowatzki Baptistella](https://github.com/le-bap) Letizia Lowatzki Baptistella RA:22.125.063-2
+- [Manuella Filipe Peres](https://github.com/manu3lla) RA: 22.224.029-3
+- [Rafaela Altheman de Campos](https://github.com/RafaAltheman) RA: 22.125.062-4
 
 ## Tópicos
-- [Introdução] (./docs/introducao.md)
+- [Introducao](./docs/introducao.md)
 - [Público Alvo](./docs/2-publico-alvo.md)
 - [Estética](./docs/3-estetica.md)
 - [Dinâmica](./docs/4-dinamica.md)
