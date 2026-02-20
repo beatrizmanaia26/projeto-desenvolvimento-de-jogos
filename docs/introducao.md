@@ -19,9 +19,20 @@ A personagem principal, Clarke, terá que enfrentar todos os desafios propostos 
 
 # ENTREGA 2: caracteristica e enredo do jogo
 
--ambientes: castelo, comodos do castelo
--jogadores: clarke
--objetos:pergaminho, pistas?
--inimigos:pessoas
--aliados: animais
--historia:
+-ambientes: como ele é alerado ao longo do jogo?
+castelo, comodos do castelo
+
+-jogadores:como sao controlados?
+clarke
+
+-objetos: o que eles fazem?
+pergaminho, pistas?
+
+-inimigos:como eles agem
+pessoas
+
+-aliados: como eles agem?
+animais
+
+-historia:como se desenvolve?comeco meio fim
+
