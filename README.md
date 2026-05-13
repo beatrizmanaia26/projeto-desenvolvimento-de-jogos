@@ -18,7 +18,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - [Prototipação](./docs/7-prototipacao.md)
 - [Testes](./docs/8-testes.md)
 
-# PARA PENSAR !!!!!
+# LINK da gameplay: https://www.youtube.com/watch?v=0qD4t1A0mFU
 
 TIPO: mistério
 Pensar em tipo ação aventura puzzlede jogo é tema (dia 20), template github
