@@ -20,6 +20,8 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 # LINK da gameplay: https://www.youtube.com/watch?v=0qD4t1A0mFU
 
+# LInk jogo:  https://rafaela-altheman.itch.io/o-enigma-de-clarke-gameplay 
+
 TIPO: mistério
 Pensar em tipo ação aventura puzzlede jogo é tema (dia 20), template github
 
