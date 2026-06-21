@@ -7,7 +7,6 @@ Que tipo de experiência você quer dar para o seu jogador?
 --------
 
 ## Tipo:
-
  puzzle de mistério
 
 ## Tema:

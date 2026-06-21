@@ -1,4 +1,7 @@
 # **GRUPO D:** O enigma de Clarke
+
+Nesse repositório você encontrará todas as etapas para o desenvolvimento do jogo "O Enigma de Clarke", já nesse repositório encontra o [código do jogo desenvolvido](https://github.com/beatrizmanaia26/O-Enigma-de-Clarke-projeto) 
+
 Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Desenvolvimento de Jogos Digitais (CC7140) do curso de Ciência da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
@@ -15,18 +18,9 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - [Dinâmica](./docs/4-dinamica.md)
 - [Mecânica](./docs/5-mecanica.md)
 - [Prefabs](./docs/6-prefabs.md)
-- [Prototipação](./docs/7-prototipacao.md)
-- [Testes](./docs/8-testes.md)
+- [Prototipação](./documentos_entregas/Prototipação-O-enigma-de-clarke.pdf)
+- [Testes](https://rafaela-altheman.itch.io/o-enigma-de-clarke-gameplay)
 
-# LINK da gameplay: https://www.youtube.com/watch?v=0qD4t1A0mFU
+## LINK da gameplay: https://www.youtube.com/watch?v=0qD4t1A0mFU
 
-# LInk jogo:  https://rafaela-altheman.itch.io/o-enigma-de-clarke-gameplay 
-
-TIPO: mistério
-Pensar em tipo ação aventura puzzlede jogo é tema (dia 20), template github
-
-Tema introdução público alvo(que tipo de jogo essas pessoas gostam)
-
-ex: metrovania
-
-Não construir mtas mecânicas, fazer 1 mecânica e replicar em outras fases mudando hitoria e como eh executada, colocar evolução de mecânica
+## LInk jogo: https://rafaela-altheman.itch.io/o-enigma-de-clarke-gameplay 
